@@ -1,0 +1,4 @@
+https://learn.adafruit.com/lsm6dsox-and-ism330dhc-6-dof-imu/python-circuitpython
+
+#raspberrypi quick start
+https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico/0
